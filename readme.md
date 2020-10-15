@@ -1,3 +1,5 @@
+[< к содержанию](./read.me)
+
 # Инструкция по работе с Git
 
 LICENCE: [MIT](./licence.md)
