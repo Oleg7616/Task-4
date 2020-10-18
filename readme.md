@@ -1,5 +1,4 @@
 
-
 # Инструкция по работе с Git
 
 LICENCE: [MIT](./licence.md)
@@ -9,7 +8,7 @@ LICENCE: [MIT](./licence.md)
 ---
 
 ### Содержание:
-1. Что-то
+1. [Введение](./punkt1.md)
 2. [git add](./add.md)
 
 
