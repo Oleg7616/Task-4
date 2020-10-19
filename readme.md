@@ -8,7 +8,7 @@ LICENCE: [MIT](./licence.md)
 ---
 
 ### Содержание:
-1. [Введение](./assets/punkt1.md)
+1. [Введение](./Введение.md)
 2. [git add](./add.md)
 
 ---
